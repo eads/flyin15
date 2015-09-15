@@ -141,3 +141,7 @@ body.has-nav .img-container {
   margin: 0 auto;
 }
 
+.slide-titlecard h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
